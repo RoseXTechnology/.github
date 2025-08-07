@@ -2,7 +2,7 @@
 
 ## 🌹 Overview
 
-This project is developed by **RoseX Technology**, a team dedicated to engineering powerful, elegant, and user-centric software solutions. Our philosophy is that technology should feel as natural and intuitive as it is powerful.
+This projects are developed by **RoseX Technology**, a team dedicated to engineering powerful, elegant, and user-centric software solutions. Our philosophy is that technology should feel as natural and intuitive as it is powerful.
 
 ## 🤝 Contributing
 
