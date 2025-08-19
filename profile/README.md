@@ -1,14 +1,13 @@
 <p align="center">
-  <img width="400" height="300" alt="Trip Radar Logo" src="https://github.com/user-attachments/assets/3a4b366a-ffbd-4fcd-ae93-898a08e63b65" />
+  <img width="400" height="400" alt="Trip Radar Logo" src="https://github.com/user-attachments/assets/7462b3a4-e8f8-46f5-abbf-f00ed5420d7e" />
 </p>
 
-<h1 align="center">Trip Radar</h1>
 
-## 🌹 Overview
+##  Overview
 
 These projects are developed by **Trip Radar**, a team dedicated to engineering powerful, elegant, and user-centric software solutions. Our philosophy is that technology should feel as natural and intuitive as it is powerful.
 
-## 🤝 Contributing
+##  Contributing
 
 Any contributions you make are **greatly appreciated**.
 
