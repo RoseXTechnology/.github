@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" alt="Trip Radar Logo" src="https://github.com/user-attachments/assets/7462b3a4-e8f8-46f5-abbf-f00ed5420d7e" />
+  <img width="400" height="600" alt="Trip Radar Logo" src="https://github.com/user-attachments/assets/21610cac-defd-4313-a864-052b11ec4d07" />
 </p>
 
 
